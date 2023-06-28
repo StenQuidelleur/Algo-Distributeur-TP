@@ -2,15 +2,15 @@
 
 # Simulation d'un distributeur de boissons 🥤
 
-## Contexte 🌍
+## Contexte 
 
 Imaginez que vous utilisez un distributeur automatique pour acheter une boisson. Vous insérez de l'argent, choisissez votre boisson et, si vous avez inséré suffisamment d'argent, la machine vous donne la boisson et vous rend la monnaie.
 
-## Objectif 🎯
+## Objectif 
 
 Votre tâche est de créer un algorithme en langage naturel qui simule le fonctionnement de ce distributeur de boissons.
 
-## Consignes 📝
+## Consignes 
 
 ### 1. Initialisation des Boissons et Prix
 
@@ -43,18 +43,18 @@ Votre tâche est de créer un algorithme en langage naturel qui simule le foncti
 
 - Afficher un message de remerciement et indiquer que la transaction est terminée.
 
-## Conseils 🧠
+## Conseils 
 
 - Pensez à structurer votre algorithme avec des instructions conditionnelles pour gérer les différents choix et les montants insérés.
 - Utilisez des variables pour stocker des informations telles que l'argent inséré par l'utilisateur et le prix des boissons.
 - Testez votre algorithme en envisageant différents scénarios, comme le choix invalide, les fonds insuffisants, etc.
 
-## Livrables 📁
+## Livrables 
 
 - Un document contenant l'algorithme en langage naturel.
 - [Optionnel] Une implémentation de l'algorithme dans un langage de programmation de votre choix.
 
-## Critères d'Évaluation 📋
+## Critères d'Évaluation 
 
 - Clarté et structure de l'algorithme.
 - Gestion correcte des différents choix de l'utilisateur.
